@@ -1,6 +1,5 @@
 # ReadAndWrite
 
----
  readers-writers problems ，use semaphore.
  
  Simplest Reader Writer Problem
